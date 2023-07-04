@@ -1,6 +1,3 @@
-# Udacity-Programming-For-Data-Science-U sing-Python-Nanodegree
-<img src="Certificate/Temp/temp.jpg" width="1000">
-
 ## Created by Abdelrahman
 
 This repository contains projects did for Udacity Programming For Data Science Using Python Nanodegree.
