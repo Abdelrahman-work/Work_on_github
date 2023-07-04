@@ -7,7 +7,7 @@ This repository contains projects did for Udacity Programming For Data Science U
 
 
 ## Project 1 :
-[Check My Project Submission Through This Link]()
+[Check My Project Submission Through This Link](https://github.com/Abdelrahman-work/Work_on_github/tree/master/Project-1%20SQL)
 
 ### Overview:
 
@@ -21,7 +21,7 @@ For the presentation component, the student had to create four slides, and each 
 
 
 ## Project 2 :
-[Check My Project Submission Through This Link]()
+[Check My Project Submission Through This Link](https://github.com/Abdelrahman-work/Work_on_github/tree/master/Project-2%20Python)
 
 ### Overview:
 
@@ -31,7 +31,7 @@ The developed CLI program allows the user to explore an US bikeshare system data
 
 
 ## Project 3 :
-[Check My Project Submission Through This Link]()
+[Check My Project Submission Through This Link](https://github.com/Abdelrahman-work/Work_on_github/tree/master/Project-3%20GitHub)
 
 ### Overview:
 
